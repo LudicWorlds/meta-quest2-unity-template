@@ -1,4 +1,4 @@
-# meta-quest2-unity-template
+# Meta Quest 3 Unity Template
 
 This Unity project serves as a starting point for Meta Quest 2 Projects. It was craeted with Unity version: 2020.3.10
 
@@ -28,6 +28,10 @@ In Build Settings...
 4. Click the **Switch Platform** Button.
 
 Once the project's assets have re-imported you should be ready to go!
+
+
+## Disclaimer
+This project is provided "as is" without warranty of any kind. Use at your own risk. The author is not responsible for any damage or data loss resulting from the use of this package. Compatibility and performance may vary depending on your system configuration.
 
 
 
