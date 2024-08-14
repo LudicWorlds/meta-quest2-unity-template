@@ -1,4 +1,4 @@
-# Meta Quest 3 Unity Template
+# Meta Quest 2 Unity Template
 
 This Unity project serves as a starting point for Meta Quest 2 Projects. It was craeted with Unity version: 2020.3.10
 
